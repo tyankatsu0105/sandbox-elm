@@ -1,1 +1,2 @@
 - `npx elm init`
+- `npx elm reactor`
